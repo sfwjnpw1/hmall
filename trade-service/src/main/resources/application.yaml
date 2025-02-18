@@ -4,7 +4,7 @@ hm:
   db:
     database: hm-trade
   swagger:
-    title: "黑马商城交易服务接口文档"
+    title: "微服务商城交易服务接口文档"
     package: com.hmall.trade.controller
 spring:
   rabbitmq:
